@@ -1,1 +1,2 @@
-# emossion
+# SentIA
+reconnaissance d'émotions
